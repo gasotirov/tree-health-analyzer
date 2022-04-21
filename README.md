@@ -1,2 +1,3 @@
 # tree-health-analyzer
-Data science project which analyze tree health status and diseases.
+A Data science project which analyze tree health status and diseases.
+
